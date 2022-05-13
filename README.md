@@ -12,15 +12,13 @@
 
 - 🌱 I’m currently learning **WordPress theme development**
 
-- 👨‍💻 All of my projects are available at [https://www.mayoubkhan.com/work](https://www.mayoubkhan.com/work)
-
-- 📝 I regularly write articles on [< The Beta Coders />](http://thebetacoders.com/)
+- 👨‍💻 All of my projects are available at [https://ayoubkhan.netlify.app/work](https://ayoubkhan.netlify.app/work)
 
 - 💬 Ask me about **reactjs, vuejs, angularjs**
 
 - 📫 How to reach me **ayoubkhan558@hotmail.com**
 
-- 📄 Know about my experiences [https://www.mayoubkhan.com/](https://www.mayoubkhan.com/)
+- 📄 Know about my experiences [https://ayoubkhan.netlify.app/](https://ayoubkhan.netlify.app/)
 
 - ⚡ Fun fact **I am sensitive :)**
 
