@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **WordPress theme development**
 
-- 👨‍💻 All of my projects are available at [https://ayoubkhan.netlify.app/work](https://ayoubkhan.netlify.app/work)
+- 👨‍💻 All of my projects are available at [https://mayoubkhan.com/work](https://mayoubkhan.com/work)
 
 - 💬 Ask me about **reactjs, vuejs, angularjs**
 
 - 📫 How to reach me **ayoubkhan558@hotmail.com**
 
-- 📄 Know about my experiences [https://ayoubkhan.netlify.app/](https://ayoubkhan.netlify.app/)
+- 📄 Know about my experiences [https://mayoubkhan.com/](https://mayoubkhan.com/)
 
 - ⚡ Fun fact **I am sensitive :)**
 
