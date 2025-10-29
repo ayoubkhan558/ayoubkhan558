@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ayoubkhan558@hotmail.com**
 
-- 📄 Know about my experiences [https://mayoubdev.dev/](https://mayoubdev.dev/)
+- 📄 Know about my experiences [https://mayoubdev.dev/](https://mayoub.dev/)
 
 - ⚡ Fun fact **I am sensitive :)**
 
