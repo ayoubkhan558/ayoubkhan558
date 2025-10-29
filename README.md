@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **WordPress theme development**
 
-- 👨‍💻 All of my projects are available at [https://mayoubkhan.com/work](https://mayoubkhan.com/work)
+- 👨‍💻 All of my projects are available at [https://mayoub.dev/projects](https://mayoub.dev/projects)
 
 - 💬 Ask me about **reactjs, vuejs, angularjs**
 
