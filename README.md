@@ -10,15 +10,15 @@
 <p align="left"> <a href="https://twitter.com/ayoubkhan558" target="blank"><img
       src="https://img.shields.io/twitter/follow/ayoubkhan558?logo=twitter&style=for-the-badge" alt="ayoubkhan558" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress theme development**
+- 🌱 I’m currently learning **Advanced SEO**
 
-- 👨‍💻 All of my projects are available at [https://mayoub.dev/projects](https://mayoub.dev/projects)
+- 👨‍💻 All of my projects are available at [https://ayoubkhan.vercel.app/projects](https://ayoubkhan.vercel.app/projects)
 
-- 💬 Ask me about **reactjs, vuejs, angularjs**
+- 💬 Ask me about **reactjs, wordpress, seo**
 
 - 📫 How to reach me **ayoubkhan558@hotmail.com**
 
-- 📄 Know about my experiences [https://mayoubdev.dev/](https://mayoub.dev/)
+- 📄 Know about my experiences [https://ayoubkhan.vercel.app/](https://ayoubkhan.vercel.app/)
 
 - ⚡ Fun fact **I am sensitive :)**
 
